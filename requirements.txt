@@ -1,0 +1,12 @@
+streamlit
+langchain-openai
+langchain-community
+langchain
+transformers
+pypdf
+torch
+openai
+sentence_transformers
+docarray
+pydantic==1.10.9
+langchain[docarray]
